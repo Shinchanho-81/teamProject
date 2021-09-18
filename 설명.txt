@@ -1,0 +1,13 @@
+데이터베이스 이름: team_carsharing
+포트: 8090
+Vue는 빌드 되어있어서 Spring Boot에서 서버만 키시면 됩니다.
+http://localhost:8090/
+
+로그인 해야만 정상작동 됩니다
+아이디: root@localhost
+비밀번호:1234
+
+programming-study파일을 C드라이브에 저장하셔야 합니다.
+
+적용된 Vue 플러그인:
+	Axios, Router, BootstrapVue
